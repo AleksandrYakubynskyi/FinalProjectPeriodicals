@@ -28,6 +28,6 @@ public class DbManager {
         return config;
     }
 
-    public DbManager() {
+    private DbManager() {
     }
 }
